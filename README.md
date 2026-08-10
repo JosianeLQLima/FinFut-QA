@@ -108,16 +108,14 @@ FinFut-QA/
 ├── 04-Checklist/
 │
 ├── 05-Bugs/
+|
+├── 06-API/
 │
-├── 06-Evidencias/
+├── 07-SQL/
 │
-├── 07-API/
+├── 08-Matriz-Rastreabilidade/
 │
-├── 08-SQL/
-│
-├── 09-Matriz-Rastreabilidade/
-│
-└── 10-Apresentacao/
+└── 09-Apresentacao/
 ```
 
 ### 📁 01-Requisitos
@@ -153,23 +151,19 @@ Cada bug será documentado com informações como:
 * Prioridade;
 * Evidências.
 
-### 📁 06-Evidencias
-
-Evidências dos testes realizados, como capturas de tela e outros registros necessários para comprovar os resultados.
-
-### 📁 07-API
+### 📁 06-API
 
 Documentação e evidências dos testes de API realizados utilizando o Postman, quando aplicável.
 
-### 📁 08-SQL
+### 📁 07-SQL
 
 Consultas SQL utilizadas durante o projeto para validação e análise dos dados.
 
-### 📁 09-Matriz-Rastreabilidade
+### 📁 08-Matriz-Rastreabilidade
 
 Matriz relacionando os requisitos da aplicação aos respectivos casos de teste.
 
-### 📁 10-Apresentacao
+### 📁 09-Apresentacao
 
 Materiais utilizados para apresentar o projeto, incluindo slides e documentação da apresentação final.
 
